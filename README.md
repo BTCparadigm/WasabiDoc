@@ -34,10 +34,6 @@ A step by step guide to all the aspects, starting at beginner level, all the way
 
 All the knowledge needed to give new contributors a swift start on their path to black-belt of the Dojo.
 
-###How to contribute to WasabiDocs.**
-
-
-
 ### [Wasabi FAQ](https://github.com/zkSNACKs/WasabiDoc/tree/master/docs/FAQ/)
 
 **Frequently asked questions.**
@@ -51,8 +47,6 @@ Most common questions answered with linked reference to the main documentation.
 Explanations of common words used in Wasabi and regarding Bitcoin privacy.
 
 ---
-
-
 
 ### Thanks goes to the Wasabikas, Osu!
 
